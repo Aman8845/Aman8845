@@ -28,7 +28,7 @@
 
 - 🎓 Bachelors in CSE - 2026
 
-- 💞️ Specializing in dynamic front-end framework like React. 
+- 💞️ Hands on dynamic front-end framework like React. 
 
 - 🚀 Let's connect and embark on this exciting technological journey together! 
 
